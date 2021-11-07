@@ -2,7 +2,7 @@
 
 This code should be stand-alone and can hopefully be copied and pasted into your tracking code.
 
-Otherwise Arm_Control.cs must be added to the desired 3D tracking model/game object in Unity.
+Otherwise Arm_Control.cs script must be added to the desired 3D tracking model/game object in Unity.
 
 The output Live2D_Shoulder_Rotation_Parameters & Live2D_Forearm_Rotation_Parameters need to be passed on / sent to the Live2d model or onto Vtube Studio.
 
