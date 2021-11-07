@@ -22,4 +22,4 @@ Would be nice in the future if VTube Studio could smooth in the values of a circ
 
 Please check the Live2d_Parameters_Reference image to see how the parameters are set for this code
 
-Any problems or question please let me know on Twitter @Blue_Pengcho (apologies might be slow to response) 
+Any problems or question please let me know on Twitter @Blue_Pengcho (apologies might be slow to respond) 
