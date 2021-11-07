@@ -8,10 +8,7 @@ The output Shoulder Rotation Parameters & Forearm Rotation Parameters need to be
 
 This versions is currently only tracking and creating parameter values for the left arm shoulder and elbow.
 
-Future versions plan on including :-
-Add tracking to right arm shoulder and elbow
-Add smoothing to the output parameter values
-Possibly add camera tracking for arm input??
+Future versions plan on including Add tracking to right arm shoulder and elbow, Add smoothing to the output parameter values, Possibly add camera tracking for arm input??
 
 Note: For best results outputting to VTube Studio, elbow smoothing should be set to Zero in VTube Studio.
 
