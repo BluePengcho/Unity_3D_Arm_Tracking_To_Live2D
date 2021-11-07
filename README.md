@@ -4,7 +4,7 @@ This code should be stand-alone and can hopefully be copied and pasted into your
 
 Otherwise Arm_Control.cs must be added to the desired 3D tracking model/game object in Unity.
 
-The output Shoulder Rotation Parameters & Forearm Rotation Parameters need to be passed on / sent to the Live2d model or onto Vtube Studio.
+The output Live2D_Shoulder_Rotation_Parameters & Live2D_Forearm_Rotation_Parameters need to be passed on / sent to the Live2d model or onto Vtube Studio.
 
 This versions is currently only tracking and creating parameter values for the left arm shoulder and elbow.
 
