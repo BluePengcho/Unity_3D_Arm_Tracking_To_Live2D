@@ -6,7 +6,7 @@ Otherwise Arm_Control.cs must be added to the desired 3D tracking model/game obj
 
 The output Shoulder Rotation Parameters & Forearm Rotation Parameters need to be passed on / sent to the Live2d model or onto Vtube Studio.
 
-Ver1. Is currently only tracking and creating parameter values for the left arm shoulder and elbow.
+This versions is currently only tracking and creating parameter values for the left arm shoulder and elbow.
 
 Future versions plan on including :-
 Add tracking to right arm shoulder and elbow
