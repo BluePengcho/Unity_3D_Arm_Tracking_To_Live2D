@@ -26,9 +26,9 @@ public class Arm_Control : MonoBehaviour
 
 //Get Reference GameObjects can also find/use Bones by name 
 
-        var Shoulder = GameObject.Find("L_Shoulder_Sphere");
-        var Elbow = GameObject.Find("L_Elbow_Sphere");
-        var Wrist = GameObject.Find("L_Wrist_Sphere");
+        var Shoulder = GameObject.Find("L_Shoulder_Sphere"); //Set Shoulder GameObject Tracker Object or Bone 
+        var Elbow = GameObject.Find("L_Elbow_Sphere"); //Set Elbow GameObject Tracker Object or Bone 
+        var Wrist = GameObject.Find("L_Wrist_Sphere"); //Set Wrist GameObject Tracker Object or Bone 
 
 //Optional Draw Line for Debug
 
