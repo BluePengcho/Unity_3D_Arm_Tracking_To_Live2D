@@ -1,4 +1,4 @@
-# Unity_3D_Arm_Tracking_To_Live2D
+# Unity 3D Arm Tracking To Live2D
 
 The easiest method to use this code is to add the script 'Arm_Control.cs' to any game object and within the Inspector selecting (drag and drop) the appropriate trackers or bones of the 3D Model to the corresponding Motion Tracker Values. The Live2D Parameters values in the Inspector should be set to the Minimum and Maximum Values set in the Live2D Cubism Editor.
 
